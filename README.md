@@ -124,7 +124,8 @@ de la cual se obtiene que la potencia promedio Pm = 0.24500049000096372
 ## Parte 3. Simulación de canal de ruido
 
 
-Para simular el canal de ruido de tipo AWGN primero se guarda en una lista Rx_lista los valores de Rx generados en ese momento para cada nivel de SNR desde -2dB hasta los 3dB.### Canal ruidoso tipo AWGN, SNR = -2dB
+Para simular el canal de ruido de tipo AWGN primero se guarda en una lista Rx_lista los valores de Rx generados en ese momento para cada nivel de SNR desde -2dB hasta los 3dB.
+### Canal ruidoso tipo AWGN, SNR = -2dB
 ``` python
 
 SNR=np.arange(-2,4) #iniciar el vector del rango de decibeles para la SNR deseada
