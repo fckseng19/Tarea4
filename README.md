@@ -105,7 +105,7 @@ La modulación "Binary Phase Shift Keying" es una tecnica de modulación que con
 
 
 
-## Parte 2, caluclando la potencia promedio
+## Parte 2, calculando la potencia promedio
 
 ``` python
 
