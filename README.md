@@ -223,7 +223,7 @@ plt.show()
 ![imagen modudalo](despues.png)
 
 
-## parte 5
+## Parte 5 Demodular y decodificar la señal
 
 En esta sección se realiza la decodificación de la onda mediante el método visto en clase, de aquí se obtien la cantidad de bits que fueron recibidos según el canal de ruido a la que fueron trasmitidos.El valor de BER (bits error rate) es una medida para indicar que tan bueno es la transmisión de datos en cierto tiempo
 los sistemas muy buenos tienen valores de BER = 10e-10 mientras que los peores (dañados) tiene un BER mayores a 10e-3. 
@@ -271,7 +271,7 @@ En la tabla se observa que para cada nivel de SNR se obtuvieron los siguientes B
 | 3      | 7     | 0.0007 |
 
 
-## Parte 6
+## Parte 6 Gráfica BER VS SNR
 Utilizando los niveles de SNR y los BER obtenidos como se observó en la tabla anterior, se puedo observar la gráfica correspondiente, donde se puede notar que a mayor dB el ruido es menor ya que la señal mejora y se obtiene un BER cada vez menor.  
 
 ``` python
