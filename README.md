@@ -97,7 +97,7 @@ Los valores se muestran en la siguiente tabla donde f es la frecuencia, T el per
 
 Con los parámetros definidos, se obtiene la visualización de la señal modulada BPSK de los primeros 10 bits.
 La modulación "Binary Phase Shift Keying" es una tecnica de modulación que consiste cambiar el ángulo  la onda sinusoidal portadora cambiando ya sea 0 o 180 según el valor del bit. Para las primeras  10 bits muestras 
-[0, 1, 0, 1, 0, 1, 1, 0, 1, 0] se obtiene la siguiente señal modulada donde para cada bit=1 la señal portadora cambia de fase.
+          [0, 1, 0, 1, 0, 1, 1, 0, 1, 0] se obtiene la siguiente señal modulada donde para cada bit=1 la señal portadora cambia de fase.
 
 
 ![imagen modudalo](modulado.png)
